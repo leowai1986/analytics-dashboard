@@ -35,11 +35,7 @@ Open [http://localhost:3000](http://localhost:3000).
 # Build
 npm run build
 
-# Upload dist/ folder to your host
-```
-
 ## Project Structure
-
 ```
 ├── app/
 │   ├── dashboard/
