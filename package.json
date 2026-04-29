@@ -1,0 +1,49 @@
+{
+  "name": "analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Modern analytics dashboard with Next.js and Node.js tooling",
+  "author": "Leandro Wainer",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "generate": "node scripts/generate-mock-data.js",
+    "api": "node server/simple-api.js",
+    "ws": "node server/websocket/ws-server.js",
+    "ws:client": "node server/websocket/ws-client.js",
+    "build:custom": "node scripts/build.js",
+    "stats": "node scripts/file-utils.js",
+    "check": "node scripts/check-env.js",
+    "backup": "node scripts/backup/backup-project.js",
+    "export:csv": "node scripts/export/csv-exporter.js",
+    "schedule": "node scripts/scheduler/task-scheduler.js",
+    "migrate": "node scripts/migration/data-migration.js",
+    "test": "node scripts/testing/unit-tests.js",
+    "deploy": "node scripts/deploy/deploy-static.js",
+    "log": "node scripts/logger/custom-logger.js",
+    "env": "node config/environments.js"
+  },
+  "dependencies": {
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "lucide-react": "0.468.0",
+    "next": "^15.5.15",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "recharts": "2.15.0",
+    "tailwind-merge": "2.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.1.4",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.4",
+    "@types/react-dom": "19.0.2",
+    "eslint": "8.57.1",
+    "eslint-config-next": "15.1.6",
+    "postcss": "8.5.3",
+    "tailwindcss": "4.1.4",
+    "typescript": "5.7.3"
+  }
+}
