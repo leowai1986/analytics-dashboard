@@ -7,9 +7,6 @@ A modern, responsive analytics dashboard built with **Next.js 15**, **Tailwind C
 ## 🚀 Live Demo
 [https://tu-usuario.github.io/tu-repo](https://tu-usuario.github.io/tu-repo)
 
-## 📸 Screenshots
-(Agregá screenshots de las páginas Overview, Analytics, Customers, Reports)
-
 ## Features
 
 - **Interactive Search** — Global search with keyboard shortcut (⌘K) across all pages
