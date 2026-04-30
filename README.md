@@ -5,7 +5,7 @@ Built by **[Leandro Wainer](https://github.com/leowai1986/)** — Full-stack ana
 A modern, responsive analytics dashboard built with **Next.js 15**, **Tailwind CSS v4**, and **TypeScript**.
 
 ## 🚀 Live Demo
-[https://leowai1986.github.io/analytics-dashboard/](https://leowai1986.github.io/analytics-dashboard/)
+[https://analytics-dashboard-ap2s1on4k-leowai1986s-projects.vercel.app/dashboard](https://analytics-dashboard-ap2s1on4k-leowai1986s-projects.vercel.app/dashboard)
 
 ## Features
 
