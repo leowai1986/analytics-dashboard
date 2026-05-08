@@ -73,6 +73,7 @@ npm run build
 - Recharts
 - Lucide React
 
-## License
+## Author
 
-MIT
+**Leandro Wainer** — Senior .NET Developer  
+[linkedin.com/in/lwainer](https://linkedin.com/in/lwainer)
